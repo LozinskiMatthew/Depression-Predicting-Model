@@ -1,10 +1,10 @@
-# 🧠 Depression-Predicting-Model
+# Depression-Predicting-Model
 
 A machine learning model that predicts whether an individual is likely to suffer from depression based on input features.
 The project combines data analysis, preprocessing, model development, and performance evaluation into a complete workflow.
 ---
 
-## 📊 Project Structure
+## Project Structure
 
 - **`Data_analysis_and_model_testing.ipynb`**  
   A comprehensive notebook that includes:
@@ -19,13 +19,13 @@ The project combines data analysis, preprocessing, model development, and perfor
   - Evaluates performance and saves artifacts
 
 ---
-## 🚀 How to Use
+## How to Use
 
-### 🔧 Option 1: Google Colab (Recommended)
+### Option 1: Google Colab (Recommended)
 
 If you’re using **Google Colab**, simply upload and run the `.ipynb` file. All dependencies can be installed in Colab via standard commands.
 
-### 💻 Option 2: Local Environment (Anaconda (miniconda) / PyCharm / VSCode)
+### Option 2: Local Environment (Anaconda (miniconda) / PyCharm / VSCode)
 
 If running locally, it's recommended to use:
 
@@ -36,10 +36,10 @@ If running locally, it's recommended to use:
 To set up the required environment, use the provided `requirements.txt` file, that you can find beneath this line, and in project files (within the main directory):
 
 ```bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
 ```
 
-## 📦 Requirements (`requirements.txt`)
+## Requirements (`requirements.txt`)
 
 Below is the compatible `requirements.txt` content:
 
@@ -59,7 +59,7 @@ Below is the compatible `requirements.txt` content:
 If you're using CUDA support, make sure to have the appropriate **PyTorch CUDA wheel** installed for your system:  
 👉 [Install PyTorch with CUDA](https://pytorch.org/get-started/locally/)
 
-## 📥 Usage - after proper installation
+## ✅ Usage - after proper installation
 
 Download the `Depression_model.ipynb` notebook, launch it in your preferred environment, and follow the cells to:
 
